@@ -1,5 +1,8 @@
-# iPhone Giveaways
+# <p align="center">iPhone Giveaways</p>
 
 ---
 
-<!-- You can insert your image here -->
+<p align="center">
+    <!-- Your image goes here -->
+    <!-- ![Your Image Description](link_to_your_image) -->
+</p>
